@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+	<ip>192.168.233.139</ip>
+	<port>9054</port>
+	<protocal>udp</protocal>
+	<user_data_offset>0</user_data_offset>
+	<sleep>0</sleep>
+	<send_packet_interval>100</send_packet_interval>
+	<packeges>
+	  <node path="/home/1.pcap" />
+	  <node path="/home/2.pcap" />
+	</packeges>	
+</CONFIG>
+
+
